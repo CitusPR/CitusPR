@@ -21,7 +21,8 @@
 [![HTML Clock](clock.png)](https://cituspr.github.io/html-clock/)
 
 ## Screenshot
-![Screenshot](task.png)
+![Screenshot](https://raw.githubusercontent.com/CitusPR/java-task-api/main/task.png)
+
 
 
 
