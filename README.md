@@ -20,12 +20,14 @@
 
 [![HTML Clock](clock.png)](https://cituspr.github.io/html-clock/)
 
-## Screenshot
+## Java REST API Preview
+
 ![Screenshot](https://raw.githubusercontent.com/CitusPR/java-task-api/main/task.png)
 
 
 ## Architecture
-![Architecture](architecture.png)
+![Architecture](https://raw.githubusercontent.com/CitusPR/java-task-api/main/Architecture.png)
+
 
 
 
