@@ -15,15 +15,10 @@
 ![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
+
 ## ⏰ HTML Clock
 
-<iframe 
-  src="https://cituspr.github.io/html-clock/" 
-  width="400" 
-  height="200" 
-  style="border:none;">
-</iframe>
-
+[![HTML Clock](clock.png)](https://cituspr.github.io/html-clock/)
 
 
 
