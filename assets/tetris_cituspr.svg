@@ -61,10 +61,7 @@
 
     /* Neon colors */
     .c1{ fill:#B400FF; }
-    .c2{ fill:#FF2D55; }
-    .c3{ fill:#FFD400; }
-    .c4{ fill:#3D7DFF; }
-    .c5{ fill:#00E676; }
+    
 
     /* Slight flicker */
     .b {
