@@ -22,7 +22,7 @@
 
 ## Java REST API Preview
 
-![Screenshot](https://raw.githubusercontent.com/CitusPR/java-task-api/main/task.png)
+(https://raw.githubusercontent.com/CitusPR/java-task-api/main/task.png)
 
 
 ## Architecture
