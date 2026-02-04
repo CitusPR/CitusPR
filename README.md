@@ -23,8 +23,10 @@
 ## Screenshot
 ![Screenshot](https://raw.githubusercontent.com/CitusPR/java-task-api/main/task.png)
 
+
 ## Architecture
-![Architecture](architecture.png)
+![Architecture](https://raw.githubusercontent.com/CitusPR/java-task-api/main/task.png)
+
 
 
 
