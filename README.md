@@ -21,7 +21,8 @@
 [![HTML Clock](clock.png)](https://cituspr.github.io/html-clock/)
 
 ## Screenshot
-![Tasks](task.png)
+![Screenshot](task.png)
+
 
 
 
