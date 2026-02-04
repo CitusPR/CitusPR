@@ -25,7 +25,7 @@
 
 
 ## Architecture
-![Architecture](https://raw.githubusercontent.com/CitusPR/java-task-api/main/architecture.png)
+![Architecture](architecture.png)
 
 
 
