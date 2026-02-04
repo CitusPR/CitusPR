@@ -1,6 +1,6 @@
 <img src="assets/tetris_cituspr.svg" width="900" alt="CitusPR Tetris">
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -16,7 +16,7 @@
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 
-## ⏰ HTML Clock
+## HTML Clock
 
 [![HTML Clock](clock.png)](https://cituspr.github.io/html-clock/)
 
