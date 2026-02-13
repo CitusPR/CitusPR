@@ -9,7 +9,7 @@ I enjoy learning new technologies, solving problems, and continuously improving 
 My main interests include full-stack development, UI/UX design, and application architecture. 
 I value structured thinking, teamwork, and long-term growth in the tech industry.
 
-For more information visit [my portfolio](https://cituspr.github.io/PROJECT_PORTFOLIO_WEBSITE/).
+For more information visit [my portfolio](https://cituspr.github.io/Project_Portfolio_Website/).
 
 
 
