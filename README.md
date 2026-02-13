@@ -1,6 +1,17 @@
 <img src="assets/tetris_cituspr.svg" width="900" alt="CitusPR Tetris">
-Portfolio
-[➡️ Visit my Portfolio](https://cituspr.github.io/DEIN-REPO-NAME/)
+
+## About Me
+
+Aspiring Software Developer currently retraining (FIAE).
+Passionate about building web and mobile applications and turning ideas into real products.
+You can view my work [here](https://cituspr.github.io/DEIN-REPO-NAME/).
+
+
+
+
+
+
+
 ## Tech Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
