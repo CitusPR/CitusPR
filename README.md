@@ -47,6 +47,11 @@ For more information visit [my portfolio](https://cituspr.github.io/Project_Port
 ![Architecture](https://raw.githubusercontent.com/CitusPR/java-task-api/main/Architecture.png)
 
 
+## Featured Project – DB Backup Tool
+
+A Python CLI & Flask Web UI tool for database backup simulation.
+
+<img src="https://raw.githubusercontent.com/CitusPR/db-backup-tool/main/screenshots/web-ui.png" width="900"/>
 
 
 
