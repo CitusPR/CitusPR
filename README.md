@@ -37,7 +37,7 @@ For more information visit [my portfolio](https://cituspr.github.io/Project_Port
 
 ## WhatsApp Terminbot
 
-Ein einfacher, stabiler WhatsApp-Bot zur Terminbuchung für Friseure – aufgebaut mit Make.
+Ein einfacher, stabiler WhatsApp-Bot zur Terminbuchung für Unternehmen – aufgebaut mit Make.
 
 <img width="866" height="800" alt="image" src="https://github.com/user-attachments/assets/f4ea89b1-ca19-49b3-b83b-785e8c0f990d" />
 
