@@ -34,6 +34,16 @@ For more information visit [my portfolio](https://cituspr.github.io/Project_Port
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 
+
+## WhatsApp Terminbot
+
+Ein einfacher, stabiler WhatsApp-Bot zur Terminbuchung für Friseure – aufgebaut mit Make.
+
+<img width="866" height="800" alt="image" src="https://github.com/user-attachments/assets/f4ea89b1-ca19-49b3-b83b-785e8c0f990d" />
+
+
+
+
 ## HTML Clock
 
 [![HTML Clock](clock.png)](https://cituspr.github.io/html-clock/)
