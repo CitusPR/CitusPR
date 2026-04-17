@@ -35,11 +35,14 @@ For more information visit [my portfolio](https://cituspr.github.io/Project_Port
 
 
 
-## WhatsApp Terminbot
+## WhatsApp Appointment Bot
 
-Ein einfacher, stabiler WhatsApp-Bot zur Terminbuchung für Unternehmen – aufgebaut mit Make.
+A simple, stable WhatsApp bot for appointment booking for businesses – built with Make.
 
 <img width="866" height="800" alt="image" src="https://github.com/user-attachments/assets/f4ea89b1-ca19-49b3-b83b-785e8c0f990d" />
+<img width="1186" height="686" alt="image" src="https://github.com/user-attachments/assets/f2a27480-9068-45cf-8021-77df938b68af" />
+
+
 
 
 
